@@ -53,3 +53,18 @@ export const VideoCardGroupContainer = styled.section`
   margin-left: 5%;
   margin-bottom: 16px;
 `;
+
+export const Button = styled.button`
+  border-style: none;
+  margin: .8em 0 auto 21.5em;
+  border-radius: 20%;
+  cursor: pointer;
+  position: absolute;
+  z-index: 1;
+  opacity: 0.2;
+  transition: opacity .2s;
+  &:hover,
+  &:focus {
+    opacity: .75;
+  }
+`;

@@ -80,12 +80,6 @@
       "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
     },
     {
-      "id": 7,
-      "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-    },
-    {
       "id": 8,
       "categoriaId": 2,
       "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
@@ -164,12 +158,6 @@
       "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
     },
     {
-      "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-    },
-    {
       "id": 22,
       "categoriaId": 5,
       "titulo": "Assassins Creed Valhalla",
@@ -186,60 +174,6 @@
       "categoriaId": 5,
       "titulo": "Resident Evil 8",
       "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-    },
-    {
-      "titulo": "values.titulo",
-      "url": "values.url",
-      "categoriaId": 1,
-      "id": 25
-    },
-    {
-      "titulo": "Criando um Carousel do Zero só com CSS | Code/Drops #39",
-      "url": "https://www.youtube.com/watch?v=SGwHpzgqzgk",
-      "categoriaId": 1,
-      "id": 26
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 27
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 28
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 29
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 30
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 31
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 32
-    },
-    {
-      "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
-      "url": "https://youtu.be/-nYNd6EuZHU",
-      "categoriaId": 1,
-      "id": 33
     },
     {
       "titulo": "Como fazer validações de formulário com React? #FailFastValidations | Formik Engenharia Reversa #02",
